@@ -27,7 +27,7 @@
 ```
 ## Import
 ```go
-import "github.com/m1gwings/treedrawer/tree"
+import "github.com/fol21/tree-box-drawing"
 ```
 ## Quick start
 ```sh
@@ -40,7 +40,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/m1gwings/treedrawer/tree"
+	"github.com/fol21/tree-box-drawing"
 )
 
 func main() {
@@ -248,7 +248,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/m1gwings/treedrawer/tree"
+	"github.com/fol21/tree-box-drawing"
 	"golang.org/x/net/html"
 )
 
@@ -317,7 +317,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/m1gwings/treedrawer/tree"
+	"github.com/fol21/tree-box-drawing"
 	"golang.org/x/net/html"
 )
 

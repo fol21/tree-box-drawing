@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/m1gwings/treedrawer/tree"
+	"github.com/fol21/tree-box-drawing"
 )
 
 func main() {
