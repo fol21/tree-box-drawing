@@ -1,3 +1,3 @@
 module github.com/fol21/tree-box-drawing
 
-go 1.14
+go 1.23
